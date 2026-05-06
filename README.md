@@ -331,7 +331,7 @@ This application is intended for **educational and research purposes only**. It 
 **Clinton Nakpodia**
 📧 Nakpodiaclinton@gmail.com
 🔗 [GitHub](https://github.com/nakpodia)
-💼 [LinkedIn](https://linkedin.com/in/YourProfile)
+💼 [LinkedIn](https://linkedin.com/in/cnakpodia)
 
 ---
 
